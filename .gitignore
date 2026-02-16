@@ -1,0 +1,17 @@
+Guild Master/.gitignore
+Guild Master/.editorconfig
+Guild Master/.gitattributes
+Guild Master/.oxlintrc.json
+Guild Master/.prettierrc.json
+Guild Master/env.d.ts
+Guild Master/eslint.config.ts
+Guild Master/package-lock.json
+Guild Master/package.json
+Guild Master/README.md
+Guild Master/tsconfig.app.json
+Guild Master/tsconfig.json
+Guild Master/tsconfig.node.json
+Guild Master/vite.config.ts
+Guild Master/.vscode/extensions.json
+Guild Master/public/favicon.ico
+Guild Master/.vscode/extensions.json
