@@ -1,0 +1,18 @@
+.homepage {
+    &-landing {
+        position: relative;
+        &Img {
+            width: 100vw;
+            height: 100vh;
+            filter: brightness(.4);
+        }
+        &Content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            color: #fafafa;
+            text-align: center;
+        }
+    }
+}
